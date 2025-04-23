@@ -1,0 +1,37 @@
+_repo: Bilder-der-Wunderkunst-und-des-Aberglaubens_75841
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Gräbner, Karl
+    aliases:
+    - Graebner, Carl
+    - Grabner, Karl
+    birthdate: 1786
+    deathdate: 1845
+    gutenberg_agent_id: '58179'
+    url: http://www.gutenberg.org/2009/agents/58179
+    wikipedia: https://de.wikipedia.org/wiki/Karl_Gr%C3%A4bner_(Schriftsteller)
+description: ''
+gutenberg_issued: '2025-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75841'
+language: de
+pgterms:marc904: https://www.digitale-sammlungen.de/de/view/bsb10132649
+pgterms:marc905: 20230819093238grbner
+pgterms:marc906: '1834'
+pgterms:marc907: de
+production_note: Peter Becker, Martin Oswald and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This transcription was produced from images generously
+  made available by Bayerische Staatsbibliothek / Bavarian State Library.)
+publication_note: '  $aWeimar :$bVerlag von Karl Gräbner, $c1834.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Magic'
+- !lcsh 'Superstition'
+- !lcc 'BF'
+- GITenberg
+title: Bilder der Wunderkunst und des Aberglaubens
+url: http://www.gutenberg.org/ebooks/75841
